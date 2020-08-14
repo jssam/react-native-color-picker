@@ -15,6 +15,7 @@ Install the color picker
 ```
 npm install react-native-color-picker --save
 ```
+than install
 ```
 npm install @react-native-community/slider --save
 ```
